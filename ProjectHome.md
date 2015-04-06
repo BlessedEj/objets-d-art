@@ -1,0 +1,3 @@
+Built with the powerful Django Web framework, Objets d'Art is a collection of Django applications designed to help artists build and maintain a website centered around their art, including a portfolio application, a store application, a simple blog, and a forum application for communicating with their fan-base and clients.
+
+NOTE - this project has been moved to Github: https://github.com/makyo/objets-d-art
